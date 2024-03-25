@@ -55,7 +55,7 @@ const Header = () => {
                     >
                         <Grid item>
                             <IconButton
-                                href="https://github.com/swport/payment-split"
+                                href="https://github.com/srujan-here/bill_split"
                                 target="_blank"
                             >
                                 <GitHubIcon />
@@ -81,21 +81,20 @@ const Header = () => {
                 <DialogTitle id="scroll-dialog-title">
                     <Typography display="flex" alignItems="center" justifyContent="center">
                         <VerticalSplit />
-                        <Typography ml="0.65rem" fontWeight="bold" variant="h6">SplitEase - Split trip expenses with ease</Typography>
+                        <Typography ml="0.65rem" fontWeight="bold" variant="h6">bill_split - Split food expenses with ease</Typography>
                     </Typography>
                 </DialogTitle>
                 <DialogContent dividers={true}>
                     <DialogContentText marginBottom="12px">
-                        Split trip expenses among friends with least number of transactions.
+                        Split food expenses among friends with least number of transactions.
                     </DialogContentText>
                     <DialogContentText>
-                        To get started, simply add friends.
-                        Add payment made by each friend during the trip.
-                        And voila, in the third tab you can see who owes to whome.
+                        To get started, simply add friends and attach the expences.
+                        
                     </DialogContentText>
                     <DialogContentText marginTop="24px" textAlign="right">
                         <sub>
-                            Built with ❤︎ by Sumit Wadhwa
+                            Built with Srujan Putta
                         </sub>
                     </DialogContentText>
                 </DialogContent>
