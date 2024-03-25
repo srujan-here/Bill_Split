@@ -6,7 +6,7 @@ This is a user-friendly web application designed to streamline the process of sp
 
 ## App
 
-Here's the [link]() to the app
+Here's the [link](https://srujan-here.github.io/bill_split/) to the app
 
 # How to Use
 
